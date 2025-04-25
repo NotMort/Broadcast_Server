@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment files
+.env
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+
+# Compiled outputs (if you add TypeScript later)
+dist/
+build/
+
+# VSCode settings
+.vscode/

@@ -1,0 +1,13 @@
+{
+  "name": "broadcast-server",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "broadcast-server": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "ws": "^8.13.0"
+  }
+}
